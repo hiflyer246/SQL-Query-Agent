@@ -15,7 +15,12 @@ A LangChain-powered AI agent that converts natural language questions into SQL q
 - Interactive CLI mode
 - Custom database support
 
-## Example
+## Example Usage
 
-Question:
-Which product generated the highest revenue?
+python agent.py --question "Which product generated the highest revenue?"
+
+python agent.py --question "Who are the top 5 customers by spending?"
+
+python agent.py --question "What is the total revenue by product category?"
+
+python agent.py --question "Which country has the most customers?"
