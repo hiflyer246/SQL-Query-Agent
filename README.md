@@ -73,8 +73,7 @@ SQL-Query-Agent/
 ├── agent.py
 ├── requirements.txt
 ├── README.md
-├── .env.example
-└── .gitignore
+├── .env
 ```
 
 ## Future Improvements
